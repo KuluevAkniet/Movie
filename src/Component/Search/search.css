@@ -1,0 +1,9 @@
+.btn{
+    position: absolute;
+    top:0;
+    right: 10px;
+}
+.radio-btns{
+    display: flex;
+    justify-content: space-between;
+}
